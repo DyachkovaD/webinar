@@ -1,1 +1,1 @@
-Some strange text again.
+Some strange text again."Some new data" 
